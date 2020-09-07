@@ -45,6 +45,8 @@ miss1 = ["Shoot,", "Uh oh,", "Hmm,", "Darn,", "Huh,", "Well,", "Umm,"]
 miss2 = ["that's not in there!", "that wasn't it!", "you'll get it!", "better luck next time!", "are you okay?",
 	"that's not going to work!", "you're not very good at this, are you?", "would you look at that.", "I believe in you!", "have you tried e?", "gg."]                                                                                              
 
+server_url = 'http://' + os.environ['KIK_HOSTNAME']
+
 def logprint(msg, *args):
     try:
         logging.info(msg)
@@ -1872,17 +1874,17 @@ class Hangman():
 
     def display_hangman(self, num):
         hangman_pic = [
-            "http://192.241.150.224/images/hangman_pics/hangman_6.png",
-            "http://192.241.150.224/images/hangman_pics/hangman_5.png",
-            "http://192.241.150.224/images/hangman_pics/hangman_4.png",
-            "http://192.241.150.224/images/hangman_pics/hangman_3.png",
-            "http://192.241.150.224/images/hangman_pics/hangman_2.png",
-            "http://192.241.150.224/images/hangman_pics/hangman_1.png",
-            "http://192.241.150.224/images/hangman_pics/hangman_0.png"]
+            "hangman_6.png",
+            "hangman_5.png",
+            "hangman_4.png",
+            "hangman_3.png",
+            "hangman_2.png",
+            "hangman_1.png",
+            "hangman_0.png"]
 
         sequence_num = (len(hangman_pic) - 1) - num
 
-        return hangman_pic[sequence_num]
+        return server_url + "/images/hangman_pics/" + hangman_pic[sequence_num]
 	
     def topImg(self, text):
         topcanvas = (500, 75)
@@ -1968,11 +1970,11 @@ class Hangman():
         # im.save(temp, format="png")
         # ftp.storbinary("STOR 1.png", temp)
         # ftp.close()
-        # return "http://192.241.150.224/images/" + str(self.session_chatid) + "/1.png"
+        # return server_url + "/images/" + str(self.session_chatid) + "/1.png"
         #return im
         self.createImages(im)
         im.close()
-        return "http://192.241.150.224/images/" + self.session_chatid + "/progress_pic.png"
+        return server_url + "/images/" + self.session_chatid + "/progress_pic.png"
 
     def createImages(self, img):
         path = "/var/www/html/images/"

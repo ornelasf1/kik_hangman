@@ -7,7 +7,6 @@ history:
         - 'Battle for France'
         - Dunkirk
         - 'North Africa Campaigns'
-        - 'Battle of Britain'
         - 'Liberation of Italy'
         - 'Normandy Campaigns'
         - 'Battle of Britain'
@@ -69,6 +68,7 @@ history:
         - 'George Mason'
         - 'Godfrey of Bouillon'
         - 'Gottfried Leibniz'
+        - 'Guy Fawkes'
         - 'Hannah Arendt'
         - 'Harold Godwinson'
         - 'Harriet Tubman'
@@ -112,6 +112,7 @@ history:
         - 'Aerosol Paint Cans'
         - 'Air Conditioner'
         - Airplanes
+        - 'Analytical Engine'
         - 'Apple Macintosh'
         - 'Arc Welder'
         - 'Artificial Life'
@@ -121,6 +122,7 @@ history:
         - 'Band Aid'
         - 'Bar Code'
         - 'Barbie Doll'
+        - Bicycle
         - 'Black Box'
         - 'Bottle Making Machinery'
         - 'Bubble Gum'
@@ -146,8 +148,10 @@ history:
         - 'Halogen Lamp'
         - Helicopter
         - 'Hydrogen Bomb'
+        - 'Incandescent Light Bulbs'
         - 'Instant Coffee'
         - Insulin
+        - Internet
         - 'Iron Lung'
         - 'Jet Engine'
         - Jukebox
@@ -161,6 +165,7 @@ history:
         - 'Mobile Phones'
         - 'Model T'
         - 'Motion Picture'
+        - 'Motor Carriage'
         - 'Neon Lamp'
         - 'Neon Lights'
         - 'Neutronic Reactor'
@@ -168,6 +173,8 @@ history:
         - Penicillin
         - 'Phone Booth'
         - Phonograph
+        - Plastic
+        - Radar
         - 'Radio Receiver'
         - 'Roller Blades'
         - 'Safety Razor'
@@ -198,13 +205,13 @@ history:
         - 'World Wide Web'
         - Zeppelin
         - Zipper
+        - Email
     '20th Century People':
         - 'Adolf Eichmann'
         - 'Alexander Kerensky'
         - 'Alfred von Tirpitz'
         - 'Andrew Cunningham'
         - 'Anne Frank'
-        - Artur
         - Ataturk
         - Axmann
         - 'Benito Mussolini'
@@ -287,27 +294,101 @@ history:
         - 'Vittorio Ambrosio'
         - 'Vladimir Lenin'
         - 'Willa Brown'
-        - 'Willa Brown'
         - 'Winston Churchill'
         - 'Woodrow Wilson'
         - 'Yoshijiro Umezu'
         - 'Yuri Gagarin'
+        - 'Henry Kissinger'
     'Historically Important Events':
-        - 'Fall of Berlin Wall'
+        - 'African American Civil Rights Movement'
+        - 'America''s War with Tripoli'
         - 'American Revolution'
-        - 'World War Two'
-        - 'World War One'
-        - 'The Cold War'
-        - 'The Great Depression'
-        - 'The Holocaust'
+        - 'Anglo Egyptian Agreement'
+        - 'Ashanti War'
         - 'Attack on Pearl Harbor'
-        - 'Treaty of Versailles'
-        - 'Semptember Eleven Attacks'
+        - 'Battle of Adwa'
+        - 'Battle of Buxar'
+        - 'Battle of Diu'
+        - 'Battle of Nile'
+        - 'Battle of Pyramids'
         - 'Chernobyl Disaster'
         - 'Cuban Missile Crisis'
+        - 'Dewey Captures Philippines'
+        - 'Ethiopian-Italian War'
+        - 'Fall of Berlin Wall'
+        - 'Fall of the Western Roman Empire'
+        - 'First Anglo-Afghan War'
+        - 'First Anglo-Burmese War'
+        - 'First Battle of Panipat'
+        - 'First Sikh War'
+        - 'First Sino-Japanese War'
+        - 'French Invasion of Tunisia'
+        - 'Japanese Invasion of Taiwan'
+        - 'Second Burma War'
+        - 'Second Maori War'
+        - 'Second Sikh War'
+        - 'September Eleven Attacks'
+        - 'Siege of Acre'
         - 'Sinking of the Titanic'
-        - 'African American Civil Rights Movement'
+        - 'The Cold War'
+        - 'The Gempei War'
+        - 'The Great Depression'
+        - 'The Great Trek'
+        - 'The Holocaust'
+        - 'The Opium War'
+        - 'The Samurai Invasion Of Korea 1592'
+        - 'Treaty of Amasya'
+        - 'Treaty of Constantinople'
+        - 'Treaty of Versailles'
         - 'Watergate Scandal'
+        - 'World War One'
+        - 'World War Two'
+        - 'Zulu War'
+        - 'Fashoda Incident'
+    'Presidents of the United States':
+        - 'Abraham Lincoln'
+        - 'Andrew Jackson'
+        - 'Andrew Johnson'
+        - 'Barack Obama'
+        - 'Benjamin Harrison'
+        - 'Bill Clinton'
+        - 'Calvin Coolidge'
+        - 'Chester A. Arthur'
+        - 'Dwight D. Eisenhower'
+        - 'Franklin D. Roosevelt'
+        - 'Franklin Pierce'
+        - 'George H. W. Bush'
+        - 'George W. Bush'
+        - 'George Washington'
+        - 'Gerald Ford'
+        - 'Grover Cleveland'
+        - 'Harry S. Truman'
+        - 'Herbert Hoover'
+        - 'James A. Garfield'
+        - 'James Buchanan'
+        - 'James K. Polk'
+        - 'James Madison'
+        - 'James Monroe'
+        - 'Jimmy Carter'
+        - 'John Adams'
+        - 'John F. Kennedy'
+        - 'John Quincy Adams'
+        - 'John Tyler'
+        - 'Lyndon B. Johnson'
+        - 'Martin Van Buren'
+        - 'Millard Fillmore'
+        - 'Richard Nixon'
+        - 'Ronald Reagan'
+        - 'Rutherford B. Hayes'
+        - 'Theodore Roosevelt'
+        - 'Thomas Jefferson'
+        - 'Ulysses S. Grant'
+        - 'Warren G. Harding'
+        - 'William Henry Harrison'
+        - 'William Howard Taft'
+        - 'William McKinley'
+        - 'Woodrow Wilson'
+        - 'Zachary Taylor'
 geography:
     'Countries and their Capitals':
         - 'Washington. DC, USA'
@@ -607,6 +688,7 @@ geography:
         - 'Anne Hathaway'
         - 'Antonio Banderas'
         - 'Arnold Schwarzenegger'
+        - 'Ashton Kutcher'
         - 'Ben Affleck'
         - 'Ben Stiller'
         - 'Bill Murray'
@@ -637,6 +719,7 @@ geography:
         - 'Emma Stone'
         - 'Emma Watson'
         - 'Felicity Jones'
+        - 'Fred Rogers'
         - 'Gabriel Iglesias'
         - 'George Clooney'
         - 'Halle Berry'
@@ -644,6 +727,7 @@ geography:
         - 'Heath Ledger'
         - 'Hugh Jackman'
         - 'Ian McKellen'
+        - 'Jack Black'
         - 'Jack Nicholson'
         - 'Jackie Chan'
         - 'Jaden Smith'
@@ -673,8 +757,10 @@ geography:
         - 'Kevin Spacey'
         - 'Kim Kardashian'
         - 'Kylie Jenner'
+        - 'Laura Prepon'
         - 'Leonardo DiCaprio'
         - 'Liam Neeson'
+        - Liberace
         - 'Macaulay Culkin'
         - 'Margot Robie'
         - 'Mark Wahlberg'
@@ -683,6 +769,7 @@ geography:
         - 'Matthew McConaughey'
         - 'Megan Fox'
         - 'Mel Gibson'
+        - 'Mila Kunis'
         - 'Miranda Cosgrove'
         - 'Morena Baccarin'
         - 'Morgan Freeman'
@@ -694,6 +781,7 @@ geography:
         - 'Patrick Stewart'
         - 'Peter Jackson'
         - 'Pierce Brosnan'
+        - 'R Lee Ermey'
         - 'Rob Reiner'
         - 'Robert De Niro'
         - 'Robert Downey Jr.'
@@ -707,10 +795,12 @@ geography:
         - 'Scarlett Johanson'
         - 'Sean Connery'
         - 'Seann William Scott'
+        - 'Seth Green'
         - 'Shah Rukh Khan'
         - 'Shia LeBeouf'
         - 'Sigourney Weaver'
         - 'Steve Carell'
+        - 'Steve Irwin'
         - 'Steven Spielberg'
         - 'Sylvester Stallone'
         - 'Tim Allen'
@@ -849,12 +939,13 @@ geography:
         - 'Gigi Gorgeous'
         - 'Grace Helbig'
         - 'Henry Reich'
-        - 'J.K Rowling'
+        - 'J. K. Rowling'
         - 'Jake Paul'
         - 'Jenna Marbles'
         - 'John Green'
         - 'Joy Cho'
         - 'Lily Singh'
+        - 'Linus Sebastian'
         - 'Logan Paul'
         - 'Mark Fischbach'
         - 'Matt Drudge'
@@ -869,6 +960,7 @@ geography:
         - 'Roman Atwood'
         - 'Samuel de Luque'
         - 'Shane Dawson'
+        - 'Sky Williams'
         - Smosh
         - SoFloAntonio
         - 'Tai Lopez'
@@ -881,12 +973,16 @@ geography:
         - 'Bad Luck Brian'
         - 'Business Cat'
         - 'Chemistry Cat'
+        - 'Confused Mr.Krabs'
         - 'Crying Michael Jordan'
         - 'Dat Boi'
         - 'Disaster Girl'
+        - 'Disbelief Guy'
+        - 'Distracted Boyfriend'
         - Doge
         - 'Don''t Talk To Me or My Son Ever Again'
         - 'Double Rainbow'
+        - 'Expanding Brain'
         - 'Feel Like A Sir'
         - 'Feels Bad Man'
         - 'Forever Alone'
@@ -894,21 +990,31 @@ geography:
         - 'Good Guy Greg'
         - 'Gotta Go Fast'
         - 'Grumpy Cat'
+        - 'I Don''t Know What I Expected'
         - 'I Have No Idea What I''m Doing'
+        - 'Jesus Christ Kid'
         - 'Lazy College Senior'
-        - 'Mocking SpongeBob'
         - 'My People Need Me'
+        - 'Now Kith'
+        - 'Nyan Cat'
+        - 'Oh No Baby What Is You Doing'
         - 'Oh, You'
         - 'One Does Not Simply'
         - 'Over Manly Man'
         - 'Overly Attached Girlfriend'
         - 'Pepe the Frog'
+        - Pupper
         - Reeeeeeee
+        - 'Roll Safe'
+        - 'Salt Bae'
         - 'Sanic Hegehog'
+        - 'Shut Up And Take My Money'
         - 'Side Eyeing Chloe'
         - Spongegar
+        - 'Starter Pack'
         - 'Super S Stussy'
         - 'The Dress'
+        - 'The Floor Is'
         - 'This is Fine'
         - Trollface
         - 'Ugandan Knuckles'
@@ -921,207 +1027,331 @@ geography:
         - 'You Tried'
         - 'meme_Ancient Aliens'
         - 'meme_Boardroom Suggestion'
+        - 'meme_Hot Dog Guy'
         - meme_Intensifies
+        - 'meme_Joe Biden'
+        - 'moCkINg SPoNgeBOb'
+        - 'I Don''t Care That You Broke Your Elbow'
+    Genders:
+        - Adamasgender
+        - Aerogender
+        - Aesthetigender
+        - Affectugender
+        - Agender
+        - Agenderflux
+        - Alexigender
+        - Aliusgender
+        - Amaregender
+        - Amaregender
+        - Ambigender
+        - Ambonec
+        - Amicagender
+        - Androgyne
+        - Anesigender
+        - Angenital
+        - Anogender
+        - Anongender
+        - Antegender
+        - Anxiegender
+        - Apagender
+        - Apconsugender
+        - Astergender
+        - Astralgender
+        - Autigender
+        - Autogender
+        - Axigender
+        - Bigender
+        - Biogender
+        - Blurgender
+        - Boyflux
+        - Burstgender
+        - Caelgender
+        - Caelgender
+        - Cassflux
+        - Cassgender
+        - Cavusgender
+        - Cendgender
+        - Ceterofluid
+        - Ceterogender
+        - Cisgender
+        - Cloudgender
+        - Collgender
+        - Colorgender
+        - Commogender
+        - Condigender
+        - Deliciagender
+        - Demi-smoke
+        - Demi-vapor
+        - Demifluid
+        - Demiflux
+        - Demigender
+        - Domgender
+        - Duragender
+        - Egogender
+        - Epicene
+        - Espigender
+        - Exgender
+        - Existigender
+        - Female
+        - Female
+        - Femfluid
+        - Femgender
+        - Fluidflux
+        - Gemigender
+        - 'Gender Neutral'
+        - Genderblank
+        - Genderflow
+        - Genderfluid
+        - Genderflux
+        - Genderfuzz
+        - Genderpunk
+        - Genderqueer
+        - Genderwitched
+        - Girlflux
+        - Glassgender
+        - Glimragender
+        - Greygender
+        - Gyragender
+        - Healgender
+        - Heliogender
+        - Hemigender
+        - Horogender
+        - Hydrogender
+        - Imperigender
+        - Intergender
+        - Juxera
+        - Libragender
+        - Magigender
+        - Male
+        - Maverique
+        - Mirrorgender
+        - Molligender
+        - Multigender
+        - Nanogender
+        - Neutrois
+        - Nonbinary
+        - Omnigender
+        - Oneirogender
+        - Pangender
+        - Paragender
+        - Perigender
+        - Polygender
+        - Proxvir
+        - Quoigender
+        - Subgender
+        - Surgender
+        - Systemgender
+        - Tragender
+        - Transgender
+        - Trigender
+        - Vapogender
+        - Venngender
+        - Verangender
+        - Vibragender
+        - Vocigender
+        - Mayonnaise
 entertainment:
     Movies:
-        - Logan
-        - 'Wind River'
-        - 'Get Out'
+        - 'A Taxi Driver'
+        - 'A. I. Artificial Intelligence'
+        - 'About Time'
+        - 'Ace Ventura'
+        - Alien
+        - 'American History X'
+        - 'American Pie'
+        - 'American Sniper'
+        - 'Ant Man'
+        - Argo
+        - Avatar
+        - 'Baby Driver'
+        - 'Beauty and the Beast'
+        - Blackfish
+        - 'Blood and Bone'
+        - 'Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan'
+        - Boyhood
+        - 'Brokeback Mountain'
+        - 'Captain America: The Winter Soldier'
+        - 'Captain Fantastic'
+        - 'Captain Phillips'
+        - 'Cinco de Mayo'
+        - 'City of God'
+        - Click
+        - Creed
+        - 'Dawn of the Dead'
+        - 'Dead Silence'
+        - Deadpool
+        - 'Despicable Me'
+        - Detachment
+        - 'Django Unchained'
+        - 'Doctor Strange'
+        - 'Don''t Be a Menace to South Central While Drinking Your Juice in the Hood'
+        - 'Donnie Darko'
+        - Dope
+        - Downfall
+        - 'Drag Me to Hell'
+        - Dredd
+        - Drive
         - Dunkirk
+        - 'Edge of Tomorrow'
+        - 'End of Watch'
+        - 'Evil Dead'
+        - 'Ex Machina'
+        - Fargo
+        - 'First They Killed my Father'
+        - Flight
+        - 'Forrest Gump'
+        - 'Fruitvale Station'
+        - 'Full Metal Jacket'
+        - Fury
+        - Gallipoli
+        - 'Get Out'
+        - Godzilla
+        - 'Gone Girl'
+        - Gravity
+        - 'Guardians of the Galaxy'
+        - 'Harry Potter and the Prisoner of Azkaban'
+        - 'Harry Potter and the Sorcerer''s Stone'
+        - Her
+        - 'Hot Fuzz'
+        - 'IP Man'
+        - IT
+        - Idiocracy
+        - Inception
+        - 'Independence Day The Day After Tomorrow'
+        - 'Inglorious Basterds'
+        - Insidious
+        - 'Instructions Not Included'
+        - Interstellar
+        - 'Interview with the Vampire: The Vampire Chronicles'
+        - 'Iron Man'
+        - Jarhead
+        - Jaws
+        - 'Jay and Silent Bob Strike Back'
         - 'John Wick'
         - 'John Wick Chapter Two'
-        - Ozark
-        - 'Baby Driver'
-        - 'A Taxi Driver'
-        - 'First They Killed my Father'
-        - Alien
-        - Titanic
-        - Fargo
-        - 'Full Metal Jacket'
-        - 'War of the Planet of the Apes'
-        - IT
-        - 'Beauty and the Beast'
-        - 'Star Wars'
-        - 'The Shape of Water'
-        - 'Only the Brave'
-        - Narnia
-        - 'Lady Bird'
-        - 'Satans Slaves'
-        - 'Wonder Woman'
-        - Mudbound
-        - Wonder
-        - 'Instructions Not Included'
-        - Taboo
-        - Shockwave
-        - 'Independence Day The Day After Tomorrow'
-        - 'The Florida Project'
-        - 'Scary Movie'
-        - 'Texas Chainsaw Massacre'
-        - 'The Hills Have Eyes'
-        - 'Logan Lucky'
-        - 'Pulp Fiction'
-        - 'Inglorious Basterds'
-        - 'Despicable Me'
-        - 'American History X'
-        - 'Mississippi Burning'
-        - 'Stand and Deliver'
-        - 'IP Man'
-        - 'Twin Peaks'
-        - 'The Big Sick'
-        - 'The Revenant'
-        - Deadpool
-        - Snowden
-        - 'Captain Fantastic'
-        - 'Doctor Strange'
-        - 'The Wailing'
-        - 'The Siege of Jadotville'
-        - 'The Purge'
-        - 'Mad Max Fury Road'
-        - Interstellar
-        - Whiplash
-        - 'Ex Machina'
-        - Southpaw
-        - 'Blood and Bone'
-        - Creed
-        - 'The Hateful Eight'
-        - 'The Martian'
-        - 'Kingsman The Secret Service'
-        - 'American Sniper'
-        - 'The Admiral'
-        - Dope
-        - Selma
-        - Sicario
-        - 'The Imitation Game'
-        - 'Ant Man'
-        - 'Straight Outta Compton'
         - 'Jurassic Park'
         - Kano
-        - 'Ode to My Father'
-        - 'The Hobbit'
-        - 'The Lord of the Ring'
-        - 'Guardians of the Galaxy'
-        - 'Short Term Twelve'
-        - 'The Wolf on Wall Street'
-        - 'Lone Survivor'
-        - Rocky
-        - 'Gone Girl'
-        - 'Twelve Years a Slave'
-        - Fury
-        - Jarhead
-        - Rush
-        - 'The Fault In Our Stars'
-        - 'The Grand Budapest Hotel'
-        - 'Edge of Tomorrow'
-        - Looper
-        - Maleficent
-        - Nightcrawler
-        - 'About Time'
-        - 'Training Day'
-        - Nebraska
-        - 'The Pianist'
-        - 'Sin City'
-        - Downfall
-        - Predestination
-        - 'Ride Along'
-        - 'The Impossible'
-        - 'Django Unchained'
-        - 'Captain Phillips'
-        - Gravity
-        - 'Man of Steel'
-        - Prisoners
-        - 'Pacific Rim'
-        - 'Were the Millers'
-        - 'The Great Gatsby'
-        - 'The Conjuring'
-        - Masquerade
-        - 'The Hunt'
-        - Mud
-        - 'New World'
         - 'Kick Ass'
-        - 'The Best Offer'
-        - 'Dawn of the Dead'
-        - 'Evil Dead'
-        - 'Fruitvale Station'
-        - Mama
-        - Argo
-        - 'The Dark Knight Rises'
-        - 'End of Watch'
-        - 'The Lady'
-        - 'Life of Pi'
-        - Flight
-        - Taken
-        - Detachment
-        - Lincoln
-        - 'The Flowers of War'
-        - 'The Patriot'
-        - Dredd
-        - 'The Intouchables'
-        - 'Forrest Gump'
-        - Skyfall
-        - 'Sherlock Holmes'
-        - 'Ace Ventura'
-        - 'The Shawshank Redemption'
-        - 'The Godfather'
-        - 'Schindlers List'
-        - 'War Pigs'
-        - Blackfish
-        - Jaws
-        - 'Cinco de Mayo'
-        - 'The Ring'
-        - 'The Pursuit of Happyness'
-        - 'Saving Private Ryan'
-        - Gallipoli
-        - 'Donnie Darko'
-        - Restrepo
-        - 'The Human Centipede'
-        - Click
-        - 'American Pie'
-        - Idiocracy
-        - 'Harry Potter and the Sorcerer''s Stone'
-        - 'Naruto the Movie Ninja Clash in the Land of Snow'
-        - Insidious
-        - Saw
-        - 'Dead Silence'
-        - Sharknado
-        - Zodiac
-        - 'No Country for Old Men'
-        - 'There Will Be Blood'
-        - 'Slumdog Millionaire'
-        - 'Letters from Iwo Jima'
-        - 'Brokeback Mountain'
-        - 'Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan'
-        - 'The Social Network'
-        - 'Iron Man'
-        - 'Lost in Translation'
-        - Inception
-        - Spider-Man
-        - 'Star Trek'
-        - Her
-        - 'City of God'
-        - 'Drag Me to Hell'
-        - 'Hot Fuzz'
-        - Avatar
-        - 'Harry Potter and the Prisoner of Azkaban'
-        - 'School of Rock'
-        - 'Little Miss Sunshine'
-        - 'A. I. Artificial Intelligence'
-        - 'Shaun of the Dead'
-        - 'The Avengers'
-        - 'The Pianist'
-        - Drive
-        - Boyhood
-        - 'The Englishman Who Went Up a Hill But Came Down a Mountain'
-        - 'The Adventures of Buckaroo Banzai Across the 8th Dimension'
-        - 'Jay and Silent Bob Strike Back'
-        - 'Don''t Be a Menace to South Central While Drinking Your Juice in the Hood'
-        - 'Sweeney Todd: The Demon Barber of Fleet Street'
-        - 'Interview with the Vampire: The Vampire Chronicles'
-        - 'The Cabin in the Woods'
-        - 'Scott Pilgrim vs. the World'
-        - 'Captain America: The Winter Soldier'
-        - 'The Perks of Being a Wallflower'
-        - Godzilla
         - 'King Arthur: Legend of the Sword'
+        - 'Kingsman The Secret Service'
+        - 'Lady Bird'
+        - 'Letters from Iwo Jima'
+        - 'Life of Pi'
+        - Lincoln
+        - 'Little Miss Sunshine'
+        - Logan
+        - 'Logan Lucky'
+        - 'Lone Survivor'
+        - Looper
+        - 'Lost in Translation'
+        - 'Mad Max Fury Road'
+        - Maleficent
+        - Mama
+        - 'Man of Steel'
+        - Masquerade
+        - 'Mississippi Burning'
+        - Movies_Mud
+        - Mudbound
+        - 'Nacho Libre'
+        - Narnia
+        - 'Naruto the Movie Ninja Clash in the Land of Snow'
+        - Nebraska
+        - 'New World'
+        - Nightcrawler
+        - 'No Country for Old Men'
+        - 'Ode to My Father'
+        - 'Only the Brave'
+        - Ozark
+        - 'Pacific Rim'
+        - Predestination
+        - Prisoners
+        - 'Pulp Fiction'
+        - Restrepo
+        - 'Ride Along'
+        - Rocky
+        - Rush
+        - 'Satans Slaves'
+        - 'Saving Private Ryan'
+        - Saw
+        - 'Scary Movie'
+        - 'Schindlers List'
+        - 'School of Rock'
+        - 'Scott Pilgrim vs. the World'
+        - Selma
+        - Sharknado
+        - 'Shaun of the Dead'
+        - 'Sherlock Holmes'
+        - Shockwave
+        - 'Short Term Twelve'
+        - Sicario
+        - 'Sin City'
+        - Skyfall
+        - 'Slumdog Millionaire'
+        - Snowden
+        - Southpaw
+        - Spider-Man
+        - 'Stand and Deliver'
+        - 'Star Trek'
+        - 'Star Wars'
+        - 'Straight Outta Compton'
+        - 'Sweeney Todd: The Demon Barber of Fleet Street'
+        - Taboo
+        - Taken
+        - 'Texas Chainsaw Massacre'
+        - 'The Admiral'
+        - 'The Adventures of Buckaroo Banzai Across the 8th Dimension'
+        - 'The Avengers'
+        - 'The Best Offer'
+        - 'The Big Sick'
+        - 'The Cabin in the Woods'
+        - 'The Conjuring'
+        - 'The Dark Knight Rises'
+        - 'The Englishman Who Went Up a Hill But Came Down a Mountain'
+        - 'The Fault In Our Stars'
+        - 'The Florida Project'
+        - 'The Flowers of War'
+        - 'The Godfather'
+        - 'The Grand Budapest Hotel'
+        - 'The Great Gatsby'
+        - 'The Hateful Eight'
+        - 'The Hills Have Eyes'
+        - 'The Hobbit'
+        - 'The Human Centipede'
+        - 'The Hunt'
+        - 'The Imitation Game'
+        - 'The Impossible'
+        - 'The Intouchables'
+        - 'The Lady'
+        - 'The Lord of the Ring'
+        - 'The Martian'
+        - 'The Patriot'
+        - 'The Perks of Being a Wallflower'
+        - 'The Pianist'
+        - 'The Pianist'
+        - 'The Purge'
+        - 'The Pursuit of Happyness'
+        - 'The Revenant'
+        - 'The Ring'
+        - 'The Shape of Water'
+        - 'The Shawshank Redemption'
+        - 'The Siege of Jadotville'
+        - 'The Social Network'
+        - 'The Wailing'
+        - 'The Wolf on Wall Street'
+        - 'There Will Be Blood'
+        - Titanic
+        - 'Training Day'
+        - 'Twelve Years a Slave'
+        - 'Twin Peaks'
+        - 'War Pigs'
+        - 'War of the Planet of the Apes'
+        - Watchmen
+        - 'Were the Millers'
+        - Whiplash
+        - 'Wind River'
+        - Wonder
+        - 'Wonder Woman'
+        - Zodiac
     'Animated Movies':
         - 'A Bugs Life'
         - Akira
@@ -1178,7 +1408,7 @@ entertainment:
         - 'One Hundred and One Dalmatians'
         - 'Only Yesterday'
         - Paddington
-        - Paprika
+        - movie_Paprika
         - ParaNorman
         - 'Perfect Blue'
         - 'Peter Pan'
@@ -1196,6 +1426,7 @@ entertainment:
         - 'Snow White and the Seven Dwarfs'
         - 'Song of the Sea'
         - 'Spirited Away'
+        - 'Summer Wars'
         - Tangled
         - Tarzan
         - 'The Adventures of Tintin'
@@ -1205,6 +1436,7 @@ entertainment:
         - 'The Curse of the Were Rabbit'
         - 'The Emperors New Groove'
         - 'The Fox and the Hound'
+        - 'The Girl Who Leapt Through Time'
         - 'The Incredibles'
         - 'The Incredibles'
         - 'The Iron Giant'
@@ -1223,7 +1455,6 @@ entertainment:
         - 'The Simpsons Movie'
         - 'The Sword in the Stone'
         - 'The Triplets of Belleville'
-        - Tower
         - 'Toy Story'
         - 'Treasure Planet'
         - Up
@@ -1240,6 +1471,8 @@ entertainment:
         - Zootopia
     Cartoons:
         - 'A Pup Named Scooby Doo'
+        - A.L.F.
+        - 'Adventure Time'
         - Aladdin
         - 'Alvin & the Chipmunks'
         - 'Angela Anaconda'
@@ -1251,6 +1484,7 @@ entertainment:
         - 'Barney & Friends'
         - 'Batman the Animated Series'
         - 'Beavis and Butt Head'
+        - Beetlejuice
         - Beetlejuice
         - Beyblade
         - 'Blues Clues'
@@ -1269,6 +1503,8 @@ entertainment:
         - 'Danny Phantom'
         - Daria
         - 'Darkwing Duck'
+        - 'Darkwing Duck'
+        - 'Denver, the Last Dinosaur'
         - 'Dexters Laboratory'
         - 'Digimon Digital Monsters'
         - Doug
@@ -1290,7 +1526,7 @@ entertainment:
         - 'Inspector Gadget'
         - Inuyasha
         - 'Invader ZIM'
-        - 'Jacke Chan Adventures'
+        - 'Jackie Chan Adventures'
         - 'Jimmy Neutron'
         - 'Johnny Bravo'
         - 'Johny Bravo'
@@ -1300,6 +1536,7 @@ entertainment:
         - 'Kim Possible'
         - Lazytown
         - Madeline
+        - 'Masters of the Universe vs. the Snake Men'
         - 'Mega Babies'
         - 'Mobile Suit Gundam'
         - 'Mucha Lucha'
@@ -1322,12 +1559,16 @@ entertainment:
         - 'Sailor Moon'
         - 'Samurai Jack'
         - 'Seven Little Monsters'
+        - 'She-Ra: Princess of Power'
+        - Silverhawks
+        - Snorks
         - 'Space Ghost Coast to Coast'
         - 'Spider Man'
         - 'Spongebob Squarepants'
         - 'Static Shock'
         - Superjail
         - Superman
+        - Taz-Mania
         - 'Teen Titans'
         - 'Teenage Mutant Ninja Turtles'
         - Teletubbies
@@ -1346,7 +1587,6 @@ entertainment:
         - 'The Pink Panther Show'
         - 'The Powerpuff Girls'
         - 'The Ren & Stimpy Show'
-        - 'The Simpsons'
         - 'The Smurfs'
         - 'The Tick'
         - 'The Transformers'
@@ -1358,7 +1598,9 @@ entertainment:
         - 'Totally Spies'
         - Undergrads
         - 'Whats New Scooby Doo'
+        - Wuzzles
         - 'X Men'
+        - 'Xiaolin Showdown'
         - 'Young Justice'
         - 'Yu Gi Oh'
     'Video Games':
@@ -1576,149 +1818,151 @@ entertainment:
         - 'Zelda Breath of the Wild'
         - 'Zelda Majoras Mask'
         - 'Zelda Ocarina of Time'
+        - Fortnite
     'Video Game Characters':
-        - 'Nathan Drake'
-        - 'Ryu Hayabusa'
-        - Ayane
-        - Momiji
-        - Kasumi
-        - 'Dirk the Daring'
-        - 'Donkey Kong'
-        - 'Diddy Kong'
-        - Mario
-        - Luigi
-        - Wario
-        - Waluigi
-        - Peach
-        - Daisy
-        - Yoshi
-        - Toad
-        - Toadette
-        - 'The Horned Reaper'
-        - 'Vault Boy'
-        - 'Three Dog'
-        - Dogmeat
-        - 'Dr Madison Li'
-        - 'Marcus Fenix'
-        - 'Adam Fenix'
-        - 'Anthony Carmine'
-        - 'Benjamin Carmine'
-        - 'Clayton Carmine'
-        - 'Anya Stroud'
-        - 'Augustus Cole'
-        - 'Damon Baird'
-        - 'Dominic Santiago'
-        - 'Ada Wong'
-        - 'Albert Wesker'
-        - 'Chris Redfield'
-        - 'Claire Redfield'
-        - 'Jill Valentine'
-        - 'Leon Scott Kennedy'
-        - 'Sam & Max'
-        - 'Heather Mason'
-        - 'James Sunderland'
-        - 'Mira the Shiba Inu'
-        - 'Harry Mason'
-        - 'Travis Grady'
-        - 'Henry Townshend'
-        - 'Alex Shepher'
-        - 'Murphy Pendleton'
-        - 'Pyramid Head'
-        - 'Dr Fred Eddison'
-        - 'Devil Hunter Dante'
-        - 'Holy Knight Nero'
-        - 'Vergil the Dark Slayer'
-        - 'Mundus The Prince of Darkness'
-        - Lilith
-        - Alistair
-        - Morrigan
-        - 'Cassandra Pentaghast'
-        - 'Flemeth the Witch of the Wild'
-        - 'Pac Man'
-        - 'Ms Pac Man'
-        - 'Big Daddy'
-        - 'Little Sisters'
-        - 'Andrew Ryan'
-        - 'Elizabeth Comstock'
-        - 'Anna DeWitt'
-        - 'Frank Fontaine'
-        - 'Brigid Tenenbaum'
-        - 'Mathias Cronqvist'
-        - 'Simon Belmont'
-        - 'Genya Arikado'
-        - Goro
-        - 'Shang Tsung'
-        - 'Sub Zero'
-        - Scorpion
-        - Raiden
-        - 'Shao Kahn'
-        - 'Manny Cavalera'
-        - 'Garett the Master Thief'
-        - 'Geralt of Rivia'
-        - 'Triss Merigold'
-        - 'Ciri Fiona Elen Riannon'
-        - Yennefer
-        - Vesemir
-        - Ryu
-        - Akuma
-        - 'Sakura Kasugano'
-        - 'Chun Li'
-        - 'Ken Masters'
-        - 'M Bison'
-        - 'Samus Aran'
-        - 'Mother Brain'
-        - Ridley
-        - Bowser
-        - 'Duke Nukem'
-        - 'Solid Snake'
-        - 'Big Boss'
-        - 'Liquid Snake'
-        - 'Meryl Silverburgh'
-        - 'American McGees Alice'
-        - 'Niko Bellic'
-        - 'Roman Bellic'
-        - 'Michael De Santa'
-        - 'Franklin Clinton'
-        - 'Trevor Philips'
         - 'Abigail Marston'
-        - 'John Marston'
-        - 'Jack Marston'
-        - Kratos
-        - 'Sonic the Hedgehog'
-        - 'Knuckles the Echidna'
-        - 'Miles Tails Prower'
-        - 'Shadow the Hedgehog'
-        - 'Cloud Strife'
-        - 'Yuna the Sphere Hunter'
-        - 'Noctics Lucis Caelum'
-        - Sephiroth
-        - Tidus
-        - Chocobo
-        - GLaDOS
-        - Chell
-        - 'Master Chief'
-        - 'Cortana AI'
-        - Arbiter
-        - 'Guybrush Threepwood'
-        - Link
-        - 'Zelda Princess of Hyrule'
-        - Sheik
-        - Ganondorf
-        - 'Miss Tetra'
-        - Medli
-        - Tingle
-        - Midna
-        - Epona
-        - 'Lara Croft'
-        - Shodan
-        - 'Gordon Freeman'
-        - 'G Man'
+        - 'Ada Wong'
+        - 'Adam Fenix'
+        - Akuma
+        - 'Albert Wesker'
+        - 'Alex Shepher'
+        - Alistair
         - 'Alyx Vance'
+        - 'American McGees Alice'
+        - 'Andrew Ryan'
+        - 'Anna DeWitt'
+        - 'Anthony Carmine'
+        - 'Anya Stroud'
+        - Arbiter
+        - 'Augustus Cole'
+        - Ayane
+        - 'Benjamin Carmine'
+        - 'Big Boss'
+        - 'Big Daddy'
+        - Bowser
+        - 'Brigid Tenenbaum'
+        - 'Cassandra Pentaghast'
+        - Chell
+        - Chocobo
+        - 'Chris Redfield'
+        - 'Chun Li'
+        - 'Ciri Fiona Elen Riannon'
+        - 'Claire Redfield'
+        - 'Clayton Carmine'
+        - 'Cloud Strife'
+        - 'Cortana AI'
+        - Daisy
+        - 'Damon Baird'
+        - 'Devil Hunter Dante'
+        - 'Diddy Kong'
+        - 'Dirk the Daring'
+        - Dogmeat
+        - 'Dominic Santiago'
+        - 'Donkey Kong'
+        - 'Dr Fred Eddison'
+        - 'Dr Madison Li'
+        - 'Duke Nukem'
+        - 'Elizabeth Comstock'
+        - Epona
+        - 'Flemeth the Witch of the Wild'
+        - 'Frank Fontaine'
+        - 'Franklin Clinton'
+        - 'G Man'
+        - GLaDOS
+        - Ganondorf
+        - 'Garett the Master Thief'
+        - 'Genya Arikado'
+        - 'Geralt of Rivia'
+        - 'Gordon Freeman'
+        - Goro
+        - 'Guybrush Threepwood'
+        - 'Harry Mason'
         - Headcrabs
+        - 'Heather Mason'
+        - 'Henry Townshend'
+        - 'Holy Knight Nero'
+        - 'Jack Marston'
+        - 'James Sunderland'
+        - 'Jill Valentine'
+        - 'John Marston'
+        - 'Karthus the Deathsinger'
+        - Kasumi
+        - 'Ken Masters'
         - 'King Dee Dee Dee'
         - Kirby
+        - 'Knuckles the Echidna'
+        - Kratos
+        - 'Lara Croft'
+        - 'Leon Scott Kennedy'
+        - Lilith
+        - Link
+        - 'Liquid Snake'
+        - 'Little Sisters'
+        - Luigi
+        - 'M Bison'
+        - 'Manny Cavalera'
+        - 'Marcus Fenix'
+        - Mario
+        - 'Master Chief'
+        - 'Mathias Cronqvist'
+        - Medli
+        - 'Meryl Silverburgh'
         - 'Metal Knight'
+        - 'Michael De Santa'
+        - Midna
+        - 'Miles Tails Prower'
+        - 'Mira the Shiba Inu'
+        - 'Miss Tetra'
+        - Momiji
+        - Morrigan
+        - 'Mother Brain'
+        - 'Ms Pac Man'
+        - 'Mundus The Prince of Darkness'
+        - 'Murphy Pendleton'
+        - 'Nathan Drake'
+        - 'Niko Bellic'
+        - 'Noctics Lucis Caelum'
+        - 'Pac Man'
+        - Peach
+        - 'Pyramid Head'
+        - Raiden
+        - Ridley
+        - 'Roman Bellic'
+        - Ryu
+        - 'Ryu Hayabusa'
+        - 'Sakura Kasugano'
+        - 'Sam & Max'
+        - 'Samus Aran'
+        - Scorpion
         - 'Sebastian Castellanos'
+        - Sephiroth
+        - 'Shadow the Hedgehog'
+        - 'Shang Tsung'
+        - 'Shao Kahn'
+        - Sheik
+        - Shodan
+        - 'Simon Belmont'
+        - 'Solid Snake'
+        - 'Sonic the Hedgehog'
+        - 'Sub Zero'
+        - 'The Horned Reaper'
+        - 'Three Dog'
+        - Tidus
+        - Tingle
+        - Toad
+        - Toadette
+        - 'Travis Grady'
+        - 'Trevor Philips'
+        - 'Triss Merigold'
+        - 'Vault Boy'
+        - 'Vergil the Dark Slayer'
+        - Vesemir
+        - Waluigi
+        - Wario
+        - Yennefer
+        - Yoshi
+        - 'Yuna the Sphere Hunter'
+        - 'Zelda Princess of Hyrule'
     'TV Shows':
         - 'All in the Family'
         - 'American Horror Story'
@@ -1899,37 +2143,165 @@ entertainment:
         - Thrice
         - U2
         - 'Van Halen'
+        - Yelle
         - 'ZZ Top'
+    'TV Show Characters':
+        - 'Al Bundy'
+        - 'Angus MacGyver'
+        - 'Archie Bunker'
+        - 'Arya Stark'
+        - 'Barney Stinson'
+        - 'Bart Simpson'
+        - Bender
+        - 'Brian Griffin'
+        - 'Buffy Summers'
+        - 'Bugs Bunny'
+        - 'Carlton Banks'
+        - 'Carol Peletier'
+        - Castiel
+        - 'Cosmo Kramer'
+        - 'Daenerys Targaryen'
+        - 'Daffy Duck'
+        - 'Dana Scully'
+        - 'Daryl Dixon'
+        - 'Dean Winchester'
+        - 'Derek Morgan'
+        - 'Dexter Morgan'
+        - 'Dr. Gregory House'
+        - 'Dr. Spencer Reid'
+        - 'Dwight Schrute'
+        - 'Eddard Stark'
+        - 'Edith Bunker'
+        - 'Eric Cartman'
+        - Fonzie
+        - 'Fox Mulder'
+        - 'Frasier Crane'
+        - 'Fred Flinstone'
+        - Futurama_Fry
+        - 'George Costanza'
+        - Glenn
+        - 'Hank Hill'
+        - 'Homer Simpson'
+        - 'James T. Kirk'
+        - 'Jamie Lannister'
+        - 'Jean-Luc Picard'
+        - 'Jesse Pinkman'
+        - 'Jon Snow'
+        - 'Kermit the Frog'
+        - 'Lex Luthor'
+        - 'Lisa Simpson'
+        - 'Liz Lemon'
+        - 'Michael Scott'
+        - 'Mr. Bean'
+        - 'Mr. Burns'
+        - 'Mr. Rogers'
+        - 'Omar Little'
+        - 'Perry Cox'
+        - 'Peter Griffin'
+        - 'Phoebe Buffay'
+        - 'Rachel Green'
+        - 'Red Forman'
+        - 'Rick Grimes'
+        - 'Ron Swanson'
+        - Rorschach
+        - 'Sam Malone'
+        - Scooby-Doo
+        - Scrubs_J.D.
+        - 'Sheldon Cooper'
+        - 'Sherlock Holmes'
+        - 'Sherman T. Potter'
+        - Spock
+        - 'Stan Marsh'
+        - 'Stewie Griffin'
+        - Taz
+        - 'The Joker'
+        - 'Tony Soprano'
+        - 'Tyrion Lannister'
+        - 'Walter White'
+        - 'Wile E. Cayote'
+        - 'Wonder Woman'
+        - 'Yosemite Sam'
+        - 'big bang theory_Penny'
 science:
     Chemistry:
+        - 'Acetic Acid'
+        - Acetone
         - Americium
+        - Ammonia
+        - 'Ammonium Sulphate'
         - Argon
         - Beryllium
+        - 'Bromic Acid'
+        - 'Bromous Acid'
+        - 'Calcium Bromide'
+        - 'Calcium Carbonate'
         - Carbon
+        - 'Carbon Dioxide'
+        - 'Carbon Monoxide'
+        - 'Carbonic Acid'
+        - 'Chloric Acid'
         - Chlorine
+        - 'Chlorous Acid'
         - Cobalt
         - 'Covalent Bond'
         - Einsteinium
+        - Ethanol
         - Gallium
         - Helium
+        - 'Hydrochloric Acid'
+        - Hydrogen
         - Hydrogen
         - 'Hydrogen Bond'
+        - 'Hydrogen Bromide'
+        - 'Hydrogen Peroxide'
+        - 'Hydrogen Sulphide'
+        - 'Hypobromous Acid'
+        - 'Hypochlorous Acid'
         - 'Ionic Bond'
         - Iridium
         - Lead
+        - Lime
         - Lithium
+        - 'Lithium Chlorate'
+        - 'Lithium Hypochlorite'
+        - 'Lithium Perchlorate'
+        - Methane
+        - Methanol
         - Neptunium
+        - Nitrate
+        - 'Nitric Acid'
         - Nitrogen
+        - 'Nitrous Acid'
         - Oxygen
+        - 'Perbromic Acid'
+        - 'Perchloric Acid'
+        - Phosphate
+        - 'Phosphoric Acid'
         - Phosphorus
         - Plutonium
+        - 'Potassium Acid'
+        - 'Potassium Bromate'
+        - 'Potassium Nitrate'
+        - 'Potassium Phosphate'
         - Promethium
+        - Propane
         - Rhenium
         - Scandium
         - Selenium
         - Silver
+        - 'Sodium Acetate'
+        - 'Sodium Carbonate'
+        - 'Sodium Chloride'
+        - 'Sodium Chromate'
+        - 'Sodium Hydroxide'
+        - 'Sodium Oxide'
+        - 'Sodium Sulphide'
+        - 'Sodium Thiosulphate'
+        - 'Sulphuric Acid'
+        - 'Sulphurous Acid'
         - Tellurium
         - Thorium
+        - Trinitrotoluene
         - Uranium
         - Vanadium
         - Yttrium
@@ -2007,6 +2379,302 @@ science:
         - astronomy_Exoplanet
         - astronomy_Photosphere
         - planet_Uranus
+    'Famous Scientists':
+        - 'Ada Lovelace'
+        - 'Albert Einstein'
+        - 'Alessandro Volta'
+        - 'Alexander Fleming'
+        - 'Alexander Graham Bell'
+        - 'Alfred Nobel'
+        - 'Antoine Lavoisier'
+        - 'Antonie van Leeuwenhoek'
+        - Archimedes
+        - Aristotle
+        - 'Blaise Pascal'
+        - 'Carl Linnaeus'
+        - 'Carl Sagan'
+        - 'Charles Darwin'
+        - 'Dmitri Mendeleev'
+        - 'Edwin Hubble'
+        - 'Ernest Rutherford'
+        - 'Erwin Schrodinger'
+        - 'Francis Crick'
+        - 'Galileo Galilei'
+        - 'George Washington Carver'
+        - 'Georges Henri Joseph Lemaitre'
+        - 'Gregor Mendel'
+        - 'Guglielmo Marconi'
+        - 'Gustav Kirchhoff'
+        - 'Hans Christian Oersted'
+        - 'Heinrich Hertz'
+        - 'Isaac Newton'
+        - 'James Clerk Maxwell'
+        - 'James Prescott Joule'
+        - 'James Watson'
+        - 'James Watt'
+        - 'Johannes Kepler'
+        - 'John Bardeen'
+        - 'John Dalton'
+        - 'Leonardo da Vinci'
+        - 'Linus Pauling'
+        - 'Louis Pasteur'
+        - 'Marie Curie'
+        - 'Max Planck'
+        - 'Michael Faraday'
+        - 'Nicolaus Copernicus'
+        - 'Niels Bohr'
+        - 'Nikola Tesla'
+        - 'Philip Moriarty'
+        - 'Pierre Curie'
+        - 'Rachel Carson'
+        - 'Richard Feynman'
+        - 'Robert Boyle'
+        - 'Robert Hooke'
+        - 'Rosalind Franklin'
+        - 'Stephen Hawking'
+        - 'Thomas Edison'
+        - 'Tim Berners-Lee'
+        - 'William Thomson'
+    'Famous Mathematicians':
+        - 'Ada Lovelace'
+        - 'Alan Turing'
+        - 'Albert Einstein'
+        - 'Alexander Grothendieck'
+        - 'Andrew Wiles'
+        - Archimedes
+        - Aryabhata
+        - 'Bernhard Riemann'
+        - 'Bertrand Russell'
+        - 'Blaise Pascal'
+        - Brahmagupta
+        - 'Carl Friedrich Gauss'
+        - 'Charles Babbage'
+        - 'Daniel Bernoulli'
+        - 'David Hilbert'
+        - Diophantus
+        - 'Eddie Woo'
+        - 'Emmy Noether'
+        - Eratosthenes
+        - Euclid
+        - 'Evariste Galois'
+        - Fibonacci
+        - 'G. H. Hardy'
+        - 'Georg Cantor'
+        - 'George Boole'
+        - 'Gottfried Wilhelm Leibnez'
+        - 'Grigori Perelman'
+        - 'Henri Poincare'
+        - 'Isaac Newton'
+        - 'James Maxwell'
+        - 'Johann Bernoulli'
+        - 'John Forbes Nash Jr.'
+        - 'John Napier'
+        - 'John von Neumann'
+        - 'Joseph Fourier'
+        - 'Joseph Lagrange'
+        - 'Julia Robinson'
+        - 'Leonhard Euler'
+        - 'Luca Pacioli'
+        - 'Omar Khayyam'
+        - 'Pierre de Fermat'
+        - 'Pierre-Simon Laplace'
+        - Plato
+        - Ptolemy
+        - Pythagoras
+        - 'Rene Descartes'
+        - 'Sophie Germain'
+        - 'Srinivasa Ramanujan'
+        - 'Stanislaw Ulam'
+        - 'The Pythagoreans'
+        - 'Theodore von Karman'
+        - 'Thomas Bayes'
+        - 'William Playfair'
+        - 'Kurt Godel'
+    Biology:
+        - 'Active Transport'
+        - 'Adenosine Triphosphate'
+        - Allele
+        - Animalia
+        - Antioxidant
+        - Archaea
+        - Bacteria
+        - Bilirubin
+        - CRISPR
+        - 'Carbon Cycle'
+        - Carnivore
+        - 'Cell Cycle'
+        - 'Cell Membrane'
+        - 'Cellular Respiration'
+        - Cholesterol
+        - Cytoskeleton
+        - 'Deoxyribonucleic acid'
+        - Diffusion
+        - 'Endocrine System'
+        - Endocytosis
+        - 'Endoplasmic Reticulum'
+        - Enzymes
+        - Eukaryota
+        - 'Eukaryotic Cells'
+        - 'Facilitated Diffusion'
+        - Fungi
+        - Gamete
+        - Genotype
+        - Glycogen
+        - 'Golgi Apparatus'
+        - Herbivore
+        - Heterozygous
+        - 'Homologous Chromosomes'
+        - Hypotonic
+        - 'Lymphatic System'
+        - Lysosome
+        - Mitochondrion
+        - Monera
+        - 'Muscular System'
+        - 'Natural Selection'
+        - 'Nervous System'
+        - 'Nitrogen Cycle'
+        - Nucleus
+        - Omnivore
+        - Osmosis
+        - Phagocytosis
+        - Phenotype
+        - Phospholipid
+        - Photosynthesis
+        - Placenta
+        - Plantae
+        - 'Prokaryotic Cells'
+        - Proteins
+        - Protozoa
+        - 'Punnett Square'
+        - 'Respiratory System'
+        - 'Ribonucleic Acid'
+        - 'Skeletal System'
+        - Spleen
+        - Symbiosis
+        - 'Thymus Gland'
+        - 'Thyroid Gland'
+        - Vacuole
+        - Vesicle
+        - Zygote
+        - Chloroplast
+    'Famous Mathematical Theorems':
+        - "\t Principle of Inclusion/Exclusion"
+        - "\t The Intermediate Value Theorem"
+        - 'Bezout''s Theorem'
+        - 'Cramer''s Rule'
+        - 'Divergence of the Harmonic Series'
+        - 'Fair Games Theorem'
+        - 'Formula for Pythagorean Triples'
+        - 'Four Squares Theorem'
+        - 'Fundamental Theorem of Algebra'
+        - 'Fundamental Theorem of Integral Calculus'
+        - 'Godel''s Incompleteness Theorem'
+        - 'Insolvability of General Higher Degree Equations'
+        - 'Isosceles Triangle Theorem'
+        - 'L''Hopital''s Rule'
+        - 'Law of Quadratic Reciprocity'
+        - 'Pi is Transcendental'
+        - 'Polyhedron Formula'
+        - 'Prime Number Theorem'
+        - 'Pythagorean Theorem'
+        - 'Schroeder-Bernstein Theorem'
+        - 'Sum of a Geometric Series'
+        - 'Sum of the Reciprocals of the Triangular Numbers'
+        - 'Taylor''s Theorem'
+        - 'The Area of a Circle'
+        - 'The Binomial Theorem'
+        - 'The Central Limit Theorem'
+        - 'The Denumerability of the Rational Numbers'
+        - 'The Friendship Theorem'
+        - 'The Fundamental Theorem of Arithmetic'
+        - 'The Independence of the Parallel Postulate'
+        - 'The Infinitude of Primes'
+        - 'The Irrationality of the Square Root of 2'
+        - 'The Isoperimetric Theorem'
+        - 'The Law of Cosines'
+        - 'The Laws of Large Numbers'
+        - 'The Mean Value Theorem'
+        - 'The Non-Denumerability of the Continuum'
+        - 'The Perfect Number Theorem'
+        - 'The Principle of Mathematical Induction'
+        - 'The Solution of a Cubic'
+    'Laws and Theorems':
+        - 'Ampere''s Circuital Law'
+        - 'Archimedes''s principle'
+        - 'Avogadro''s law'
+        - 'Bell''s theorem'
+        - 'Bernoulli''s principle'
+        - 'Boyle''s law'
+        - 'Carnot''s theorem'
+        - 'Cayley-Hamilton Theorem'
+        - 'Charles''s law'
+        - 'Church-Turing Thesis'
+        - 'Coulomb''s law'
+        - 'Curie''s law'
+        - 'D''Alembert''s paradox'
+        - 'Dalton''s law of partial pressure'
+        - 'De Morgan''s law'
+        - 'Descartes''s theorem'
+        - 'Doppler effect'
+        - 'Drake equation'
+        - 'Ehrenfest''s theorem'
+        - 'Einstein''s general theory of relativity'
+        - 'Euclid''s theorem'
+        - 'Faraday''s law of electrolysis'
+        - 'Faraday''s law of induction'
+        - 'Fermat''s last theorem'
+        - 'Fermat''s little theorem'
+        - 'Fermat''s principle'
+        - 'Fermi paradox'
+        - 'Fourier''s law'
+        - 'Gauss''s law'
+        - 'Gauss''s law for magnetism'
+        - 'Gay-Lussac''s law'
+        - 'Gibbs-Helmholtz Equation'
+        - 'Graham''s law'
+        - 'Gustafson''s law'
+        - 'Heisenberg''s uncertainty principle'
+        - 'Hellmann-Feynman Theorem'
+        - 'Hilbert''s irreducibility theorem'
+        - 'Hooke''s law'
+        - 'Hopkinson''s law'
+        - 'Joule''s laws'
+        - 'Kepler''s laws of planetary motion'
+        - 'Kirchhoff''s laws'
+        - 'Lagrange reversion theorem'
+        - 'Lagrange''s four-square theorem'
+        - 'Lambert''s cosine law'
+        - 'Le Chatelier''s principle'
+        - 'Leibniz''s law'
+        - 'Lenz''s law'
+        - 'Mach principle'
+        - 'Maxwell''s equations'
+        - 'Mendelian inheritance/Mendel''s laws'
+        - 'Moore''s law'
+        - 'Nash embedding theorem'
+        - 'Nernst equation'
+        - 'Newton''s law of universal gravitation'
+        - 'Newton''s laws of motion'
+        - 'Ohm''s law'
+        - 'Paley–Wiener theorem'
+        - 'Pareto distribution'
+        - 'Pareto principle'
+        - 'Pascal''s theorem'
+        - 'Pauli exclusion principle'
+        - 'Peano axioms'
+        - 'Planck''s law'
+        - 'Poincare-Birkhoff-Witt theorem'
+        - 'Poisson distribution'
+        - 'Riemann hypothesis'
+        - 'Riemann zeta function'
+        - 'Rolle''s theorem'
+        - 'Schrodinger equation'
+        - 'Snell''s law'
+        - 'Stokes''s law'
+        - 'Thales''s theorem'
+        - 'Van der Waals equation'
+        - 'Von Neumann paradox'
+        - 'Hohenberg-Kohn Theorem'
 sports:
     'Baseball Teams':
         - 'Albuquerque Isotopes'
@@ -2071,7 +2739,7 @@ sports:
         - 'Detroit Lions'
         - 'Georgia Bulldogs'
         - 'Green Bay Packers'
-        - 'Houston Texas'
+        - 'Houston Texans'
         - 'Indianapolis Colts'
         - 'Jacksonville Jaguars'
         - 'Kansas City Chiefs'
@@ -2081,7 +2749,7 @@ sports:
         - 'Miami Dolphins'
         - 'Michigan State Spartans'
         - 'Michigan Wolverines'
-        - 'Minnesota Vikins'
+        - 'Minnesota Vikings'
         - 'Nebraska Cornhuskers'
         - 'New England Patriots'
         - 'New Orleans Saints'
@@ -2102,7 +2770,6 @@ sports:
         - 'Tennessee Titans'
         - 'Washington RedSkins'
     'Hockey Teams':
-        - '<empty>'
         - 'Anaheim Ducks'
         - 'Arizona Coyotes'
         - 'Atlanta Flames'
@@ -2187,3 +2854,766 @@ sports:
         - 'esport_Samsung Galaxy'
         - 'esport_Samsung White'
         - esport_Titan
+    Sports:
+        - 'American Football'
+        - Archery
+        - Badminton
+        - Baseball
+        - Basketball
+        - 'Basque Pelota'
+        - Bocce
+        - Bowling
+        - Boxing
+        - Canoeing
+        - Cricket
+        - 'Cross-country Equestrianism'
+        - Curling
+        - Cycling
+        - Darts
+        - Diving
+        - Fencing
+        - 'Field Hockey'
+        - 'Figure Skating'
+        - Goalball
+        - Golf
+        - Gymnastics
+        - Handball
+        - 'Horse Racing'
+        - Horseball
+        - 'Ice Hockey'
+        - 'Ice Speedway'
+        - Judo
+        - Lacrosse
+        - Motorsport
+        - Netball
+        - Petanque
+        - Polo
+        - Pool
+        - 'Roller Derby'
+        - Rowing
+        - Rugby
+        - Sailing
+        - 'Synchronized Skating'
+        - 'Synchronized Swimming'
+        - 'Table Tennis'
+        - Taekwondo
+        - Tennis
+        - Triathlon
+        - Volleyball
+        - Weightlifting
+        - Wrestling
+    'UFC Fighters':
+        - 'Amanda Nunes'
+        - 'Conor McGregor'
+        - 'Cris Cyborg'
+        - 'Daniel Cormier'
+        - 'Demetrius Johnson'
+        - 'Georges St-Pierre'
+        - 'Khabib Nurmagomedov'
+        - 'Max Holloway'
+        - 'Robert Whittaker'
+        - 'Stipe Miocic'
+        - 'TJ Dillashaw '
+        - 'Tony Ferguson'
+        - 'Tyron Woodley'
+        - 'Cody Garbrandt'
+    'NFL Players':
+        - 'A.J. Green'
+        - 'Aaron Donald'
+        - 'Aaron Rodgers'
+        - 'Adrian Peterson'
+        - 'Alex Smith'
+        - 'Allen Hurns'
+        - 'Allen Robinson'
+        - 'Andrew Luck'
+        - 'Andrew Whitworth'
+        - 'Andy Dalton'
+        - 'Antonio Brown'
+        - 'Aqib Talib'
+        - 'Ben Roethlisberger'
+        - 'Blake Bortles'
+        - 'Brandon Marshall'
+        - 'Calais Campbell'
+        - 'Cam Newton'
+        - 'Cameron Heyward'
+        - 'Cameron Jordan'
+        - 'Carlos Dunlap'
+        - 'Carson Palmer'
+        - 'Chandler Jones'
+        - 'Chris Harris Jr.'
+        - 'Chris Ivory'
+        - 'Clay Matthews'
+        - 'Darrelle Revis'
+        - 'DeAndre Hopkins'
+        - 'DeMarcus Ware'
+        - 'Delanie Walker'
+        - 'Demaryius Thomas'
+        - 'Derek Carr'
+        - 'Derick Johnson'
+        - 'Devonta Freeman'
+        - 'Dez Bryant'
+        - 'Doug Baldwin'
+        - 'Doug Martin'
+        - 'Drew Brees'
+        - 'Earl Thomas'
+        - 'Eli Manning'
+        - 'Emmanuel Sanders'
+        - 'Eric Berry'
+        - 'Ezekiel Ansah'
+        - 'Fletcher Cox'
+        - 'Gary Barnidge'
+        - 'Geno Atkins'
+        - 'Gerald McCoy'
+        - 'Greg Olsen'
+        - 'Harrison Smith'
+        - 'J.J. Watt'
+        - 'Jamaal Charles'
+        - 'Jarvis Landry'
+        - 'Jeremy Maclin'
+        - 'Joe Thomas'
+        - 'Jonathan Stewart'
+        - 'Jordan Reed'
+        - 'Josh Norman'
+        - 'Julian Edelman'
+        - 'Julio Jones'
+        - 'Justin Houston'
+        - 'Kam Chancellor'
+        - 'Kawann Short'
+        - 'Khalil Mack'
+        - 'Kirk Cousins'
+        - 'Larry Fitzgerald'
+        - 'Lavonte David'
+        - 'LeSean McCoy'
+        - 'LeVeon Bell'
+        - 'Linval Joseph'
+        - 'Luke Kuechly'
+        - 'Marcus Peters'
+        - 'Marshal Yanda'
+        - 'Matt Forte'
+        - 'Michael Bennett'
+        - 'Mike Daniels'
+        - 'Muhammad Wilkerson'
+        - 'NaVorro Bowman'
+        - 'Ndamukon Suh'
+        - 'Odell Beckham Jr.'
+        - 'Patrick Peterson'
+        - 'Philip Rivers'
+        - 'Reggie Nelson'
+        - 'Reshad Jones'
+        - 'Richard Sherman'
+        - 'Richie Incognito'
+        - 'Rob Gronkowski'
+        - 'Russell Wilson'
+        - 'Ryan Kalil'
+        - 'Sammy Watkins'
+        - 'T.J. Ward'
+        - 'Tamba Hali'
+        - 'Telvin Smith'
+        - 'Thomas Davis'
+        - 'Todd Gurley'
+        - 'Tom Brady'
+        - 'Travis Kelce'
+        - 'Trent Williams'
+        - 'Tyler Eifert'
+        - 'Tyrann Mathieu'
+        - 'Tyron Smith'
+        - 'Von Miller'
+    'NBA All-Stars':
+        - 'A. C. Green'
+        - 'Adrian Dantley'
+        - 'Adrian Smith'
+        - 'Al Horford'
+        - 'Alex English'
+        - 'Alex Groza'
+        - 'Allan Houston'
+        - 'Allen Iverson'
+        - 'Alonzo Mourning'
+        - 'Alvan Adams'
+        - 'Alvin Robertson'
+        - 'Amare Stoudemire'
+        - 'Andre Drummond'
+        - 'Andre Iguodala'
+        - 'Andrei Kirilenko'
+        - 'Andrew Bynum'
+        - 'Andrew Toney'
+        - 'Andy Phillip'
+        - 'Antawn Jamison'
+        - 'Anthony Davis'
+        - 'Anthony Mason'
+        - 'Antoine Walker'
+        - 'Antonio Davis'
+        - 'Antonio McDyess'
+        - 'Archie Clark'
+        - 'Arnie Risen'
+        - 'Artis Gilmore'
+        - 'Austin Carr'
+        - 'B. J. Armstrong'
+        - 'Bailey Howell'
+        - 'Baron Davis'
+        - 'Ben Wallace'
+        - 'Bernard King'
+        - 'Bill Bradley'
+        - 'Bill Bridges'
+        - 'Bill Cartwright'
+        - 'Bill Laimbeer'
+        - 'Bill Russell'
+        - 'Bill Sharman'
+        - 'Bill Walton'
+        - 'Billy Cunningham'
+        - 'Billy Gabor'
+        - 'Billy Knight'
+        - 'Blake Griffin'
+        - 'Bob Boozer'
+        - 'Bob Cousy'
+        - 'Bob Dandridge'
+        - 'Bob Davies'
+        - 'Bob Harrison'
+        - 'Bob Kauffman'
+        - 'Bob Lanier'
+        - 'Bob Love'
+        - 'Bob Pettit'
+        - 'Bob Rule'
+        - 'Bob cAdoo'
+        - 'Bobby Jones'
+        - 'Bobby Wanzer'
+        - 'Brad Daugherty'
+        - 'Brad Miller'
+        - 'Bradley Beal'
+        - 'Brandon Roy'
+        - 'Brian Winters'
+        - 'Brook Lopez'
+        - 'Buck Williams'
+        - 'Butch Beard'
+        - 'Calvin Murphy'
+        - 'Calvin Natt'
+        - 'Campy Russell'
+        - 'Carl Braun'
+        - 'Carlos Boozer'
+        - 'Carmelo Anthony'
+        - 'Caron Butler'
+        - 'Cazzie Russell'
+        - 'Cedric Ceballos'
+        - 'Charles Barkley'
+        - 'Charles Oakley'
+        - 'Charlie Scott'
+        - 'Chauncey Billups'
+        - 'Chet Walker'
+        - 'Chris Bosh'
+        - 'Chris Gatling'
+        - 'Chris Kaman'
+        - 'Chris Mullin'
+        - 'Chris Paul'
+        - 'Chris Webber'
+        - 'Christian Laettner'
+        - 'Chuck Noble'
+        - 'Cliff Hagan'
+        - 'Clifford Robinson'
+        - 'Clyde Drexler'
+        - 'Clyde Lee'
+        - 'Clyde Lovellette'
+        - 'Connie Hawkins'
+        - 'Curtis Rowe'
+        - 'Dale Davis'
+        - 'Dale Elis'
+        - 'Damian Lillard'
+        - 'Dan Issel'
+        - 'Dan Majerle'
+        - 'Dan Roundfield'
+        - 'Dana Barros'
+        - 'Danny Ainge'
+        - 'Danny Granger'
+        - 'Danny Manning'
+        - 'Darrall Imhoff'
+        - 'Dave Bing'
+        - 'Dave Cowens'
+        - 'Dave DeBusschere'
+        - 'David Lee'
+        - 'David Robinson'
+        - 'David Thompson'
+        - 'David West'
+        - 'DeAndre Jordan'
+        - 'DeMar DeRozan'
+        - 'DeMarcus Cousins'
+        - 'Dennis Johnson'
+        - 'Dennis Rodman'
+        - 'Deron Williams'
+        - 'Derrick Coleman'
+        - 'Derrick Rose'
+        - 'Detlef Schremf'
+        - 'Devin Harris'
+        - 'Dick Barnett'
+        - 'Dick Garmaker'
+        - 'Dick McGuire'
+        - 'Dick Van Arsdale'
+        - 'Dikembe Mutombo'
+        - 'Dirk Nowitzki'
+        - 'Doc Rivers'
+        - 'Dolph Schayes'
+        - 'Dominique Wilkins'
+        - 'Don Barksdale'
+        - 'Don Buse'
+        - 'Don Kojis'
+        - 'Don Ohl'
+        - 'Don Snderlage'
+        - 'Doug Collins'
+        - 'Draymond Green'
+        - 'Dwight Eddleman'
+        - 'Dwight Howard'
+        - 'Dwyane Wade'
+        - 'Earl Monroe'
+        - 'Ed Macauley'
+        - 'Eddie Johnson'
+        - 'Eddie Jones'
+        - 'Eddie Miles'
+        - 'Elgin Baylor'
+        - 'Elton Brand'
+        - 'Elvin Hayes'
+        - 'Fat Lever'
+        - 'Flynn Robinson'
+        - 'Frank Brian'
+        - 'Frank Selvy'
+        - 'Fred Brown'
+        - 'Fred Schaus'
+        - 'Fred Scolari'
+        - 'Gail Goodrich'
+        - 'Gary Payton'
+        - 'Gene Shue'
+        - 'Geoff Petrie'
+        - 'George Gervin'
+        - 'George McGinnis'
+        - 'George Mikan'
+        - 'George Yardley'
+        - 'Gerald Wallace'
+        - 'Giannis Antetokounmpo'
+        - 'Gilbert Arenas'
+        - 'Glen Rice'
+        - 'Glenn Robinson'
+        - 'Goran Dragić'
+        - 'Gordon Hayward'
+        - 'Grant Hill'
+        - 'Gus Johnson'
+        - 'Gus Williams'
+        - 'Guy Rodgers'
+        - 'Hakeem Olajuwon'
+        - 'Hal Greer'
+        - 'Harry Gallatin'
+        - 'Hersey Hawkins'
+        - 'Horace Grant'
+        - 'Isaiah Thomas'
+        - 'Isiah Thomas'
+        - 'Jack Coleman'
+        - 'Jack George'
+        - 'Jack Marin'
+        - 'Jack Molinas'
+        - 'Jack Sikma'
+        - 'Jack Twyman'
+        - 'Jamaal Wilkes'
+        - 'Jamal Magloire'
+        - 'Jamal Mashburn'
+        - 'Jameer Nelson'
+        - 'James Donaldson'
+        - 'James Harden'
+        - 'James Worthy'
+        - 'Jason Kidd'
+        - 'Jayson Williams'
+        - 'Jeff Hornacek'
+        - 'Jeff Malone'
+        - 'Jeff Mullins'
+        - 'Jeff Ruland'
+        - 'Jeff Teague'
+        - 'Jermaine O''Neal'
+        - 'Jerry Lucas'
+        - 'Jerry Sloan'
+        - 'Jerry Stackhouse'
+        - 'Jerry West'
+        - 'Jim King'
+        - 'Jim Paxson'
+        - 'Jim Pollard'
+        - 'Jim Price'
+        - 'Jimmy Butler'
+        - 'Jimmy Walker'
+        - 'Jo Jo White'
+        - 'Joakim Noah'
+        - 'Joe Barry Carroll'
+        - 'Joe Caldwell'
+        - 'Joe Dumars'
+        - 'Joe Fulks'
+        - 'Joe Johnson'
+        - 'Joel Embiid'
+        - 'John Block'
+        - 'John Drew'
+        - 'John Havlicek'
+        - 'John Johnson'
+        - 'John Starks'
+        - 'John Stockton'
+        - 'John Wall'
+        - 'Johnny Green'
+        - 'Johnny Kerr'
+        - 'Jon McGlocklin'
+        - 'Josh Howard'
+        - 'Jrue Holiday'
+        - 'Julius Erving'
+        - 'Juwan Howard'
+        - 'Kareem Abdul-Jabbar'
+        - 'Karl Malone'
+        - 'Karl-Anthony Towns'
+        - 'Kawhi Leonard'
+        - 'Kelly Tripucka'
+        - 'Kemba Walker'
+        - 'Ken Sears'
+        - 'Kenny Anderson'
+        - 'Kenyon Martin'
+        - 'Kermit Washington'
+        - 'Kevin Duckworth'
+        - 'Kevin Durant'
+        - 'Kevin Garnett'
+        - 'Kevin Johnson'
+        - 'Kevin Love'
+        - 'Kevin McHale'
+        - 'Kevin Willis'
+        - 'Kiki Vandeweghe'
+        - 'Klay Thompson'
+        - 'Kobe Bryant'
+        - 'Kristaps Porziņģis'
+        - 'Kyle Korver'
+        - 'Kyle Lowry'
+        - 'Kyrie Irving'
+        - 'LaMarcus Aldridge'
+        - 'Larry Bird'
+        - 'Larry Costello'
+        - 'Larry Foust'
+        - 'Larry Johnson'
+        - 'Larry Kenon'
+        - 'Larry Nance'
+        - 'Latrell Sprewell'
+        - 'LeBron James'
+        - 'Lee Shaffer'
+        - 'Len Chappell'
+        - 'Lenny Wilkens'
+        - 'Leo Barnhorst'
+        - 'Lionel Hollins'
+        - 'Lonnie Shelton'
+        - 'Lou Hudson'
+        - 'Lucious Jackson'
+        - 'Luol Deng'
+        - 'Magic Johnson'
+        - 'Manu Ginóbili'
+        - 'Marc Gasol'
+        - 'Mark Aguirre'
+        - 'Mark Eaton'
+        - 'Mark Jackson'
+        - 'Mark Price'
+        - 'Marques Johnson'
+        - 'Maurice Cheeks'
+        - 'Maurice Lucas'
+        - 'Maurice Stokes'
+        - 'Max Zaslofsky'
+        - 'Mehmet Okur'
+        - 'Mel Hutchins'
+        - 'Metta World Peace'
+        - 'Michael Adams'
+        - 'Michael Finley'
+        - 'Michael Jordan'
+        - 'Michael Redd'
+        - 'Micheal Ray Richardson'
+        - 'Mike Mitchell'
+        - 'Mitch Richmond'
+        - 'Mo Williams'
+        - 'Mookie Blaylock'
+        - 'Moses Malone'
+        - 'Nate Archibald'
+        - 'Nate Thurmond'
+        - 'Nathaniel Clifton'
+        - 'Neil Johnston'
+        - 'Nick Van Exel'
+        - 'Norm Nixon'
+        - 'Norm Van Lier'
+        - 'Oscar Robertson'
+        - 'Otis Birdsong'
+        - 'Otis Thorpe'
+        - 'Patrick Ewing'
+        - 'Pau Gasol'
+        - 'Paul Arizin'
+        - 'Paul George'
+        - 'Paul Millsap'
+        - 'Paul Pierce'
+        - 'Paul Seymour'
+        - 'Paul Silas'
+        - 'Paul Walther'
+        - 'Paul Westphal'
+        - 'Peja Stojaković'
+        - 'Penny Hardaway'
+        - 'Pete Maravich'
+        - 'Phil Chenier'
+        - 'Phil Smith'
+        - 'Rajon Rondo'
+        - 'Ralph Beard'
+        - 'Ralph Sampson'
+        - 'Randy Smith'
+        - 'Rashard Lewis'
+        - 'Rasheed Wallace'
+        - 'Ray Allen'
+        - 'Ray Felix'
+        - 'Red Rocha'
+        - 'Reggie Lewis'
+        - 'Reggie Miller'
+        - 'Reggie Theus'
+        - 'Richard Hamilton'
+        - 'Richie Guerin'
+        - 'Richie Regan'
+        - 'Rick Barry'
+        - 'Rickey Green'
+        - 'Ricky Pierce'
+        - 'Rik Smits'
+        - 'Robert Parish'
+        - 'Rod Hundley'
+        - 'Rolando Blackman'
+        - 'Roy Hibbert'
+        - 'Rudy LaRusso'
+        - 'Rudy Tomjanovich'
+        - 'Russell Westbrook'
+        - 'Sam Cassell'
+        - 'Sam Jones'
+        - 'Sam Lacey'
+        - 'Scottie Pippen'
+        - 'Sean Elliott'
+        - 'Shaquille ONeal'
+        - 'Shareef Abdur-Rahim'
+        - 'Shawn Kemp'
+        - 'Shawn Marion'
+        - 'Sidney Moncrief'
+        - 'Sidney Wicks'
+        - 'Slater Martin'
+        - 'Sleepy Floyd'
+        - 'Sott Wedman'
+        - 'Spencer Haywood'
+        - 'Stephen Curry'
+        - 'Stephon Marbury'
+        - 'Steve Francis'
+        - 'Steve Johnson'
+        - 'Steve Mix'
+        - 'Steve Nash'
+        - 'Steve Smith'
+        - 'Terrell Brandon'
+        - 'Terry Cummings'
+        - 'Terry Dischinger'
+        - 'Terry Porter'
+        - 'Theo Ratliff'
+        - 'Tim Duncan'
+        - 'Tim Hardaway'
+        - 'Tom Chambers'
+        - 'Tom Gola'
+        - 'Tom Gugliotta'
+        - 'Tom Heinsohn'
+        - 'Tom Meschery'
+        - 'Tom Van Arsdale'
+        - 'Tony Parker'
+        - 'Tracy McGrady'
+        - 'Truck Robinson'
+        - 'Tyrone Hill'
+        - 'Tyson Chandler'
+        - 'Vern Mikkelsen'
+        - 'Victor Oladipo'
+        - 'Vin Baker'
+        - 'Vince Boryla'
+        - 'Vince Carter'
+        - 'Vlade Divac'
+        - 'Wally Szczerbiak'
+        - 'Walt Bellamy'
+        - 'Walt Frazier'
+        - 'Walt Hazzard'
+        - 'Walter Davis'
+        - 'Walter Dukes'
+        - 'Wayne Embry'
+        - 'Wes Unseld'
+        - 'Willie Naulls'
+        - 'Willis Reed'
+        - 'Wilt Chamberlain'
+        - 'Woody Sauldsberry'
+        - 'World B. Free'
+        - 'Xavier McDaniel'
+        - 'Yao Ming'
+        - 'Zach Randolph'
+        - 'Zelmo Beaty'
+        - 'Zydrunas Ilgauskas'
+    'NBA Teams':
+        - 'Boston Celtics'
+        - 'Brooklyn Nets'
+        - 'New York Knicks'
+        - 'Philadelphia 76ers'
+        - 'Toronto Raptors'
+        - 'Chicago Bulls'
+        - 'Cleveland Cavaliers'
+        - 'Detroit Pistons'
+        - 'Indiana Pacers'
+        - 'Milwaukee Bucks'
+        - 'Atlanta Hawks'
+        - 'Charlotte Hornets'
+        - 'Miami Heat'
+        - 'Orlando Magic'
+        - 'Washington Wizards'
+        - 'Denver Nuggets'
+        - 'Minnesota Timberwolves'
+        - 'Oklahoma City Thunder'
+        - 'Portland Trail Blazers'
+        - 'Utah Jazz'
+        - 'Golden State Warriors'
+        - 'Los Angeles Clippers'
+        - 'Los Angeles Lakers'
+        - 'Phoenix Suns'
+        - 'Sacramento Kings'
+        - 'Dallas Mavericks'
+        - 'Houston Rockets'
+        - 'Memphis Grizzlies'
+        - 'New Orleans Pelicans'
+        - 'San Antonio Spurs'   
+culture:
+    Festivals:
+        - 'Albuquerque International Balloon Fiesta'
+        - 'Amsterdam Gay Pride'
+        - 'August Moon Festival'
+        - Bonnaroo
+        - 'Burning Man'
+        - 'Coachella Valley Music and Arts Festival'
+        - 'Cosplay Festival'
+        - 'Day of the Dead'
+        - 'Edinburgh Fringe Festival'
+        - 'Frankfurt Book Fair'
+        - 'Glastonbury Festival'
+        - 'Grand National'
+        - 'Holi Festival'
+        - 'Indianapolis 500'
+        - 'La Tomatina Festival'
+        - 'London Fashion Week'
+        - 'New Orleans Jazz Festival'
+        - 'New Orleans Mardi Gras'
+        - 'New York Fashion Week'
+        - Oktoberfest
+        - 'Oxford Literary Festival'
+        - 'Parade of Saint Nicholas'
+        - 'Running of the Bulls at the Festival of San Fermin'
+        - 'Salvador de Bahia Carnival'
+        - 'St. Patrick''s Day'
+        - Summerfest
+        - 'Sundance Film Festival'
+        - 'Sydney New Year''s Eve'
+        - 'The Iditarod Trail Sled Dog Race'
+        - 'Toronto International Film Festival'
+        - 'Venice Carnival'
+        - Woodstock
+        - 'Yeouido Cherry Blossom Festival'
+        - 'festival_Rio Carnival'
+    'Popular Cuisines and their Origin':
+        - 'Ankimo, Japan'
+        - 'Arepas, Venezuela'
+        - 'Bunny Chow, South Africa'
+        - 'Butter Garlic Crab, India'
+        - 'Buttered Popcorn, United States'
+        - 'Buttered Toast with Marmite, United Kingdom'
+        - 'Chicken Parm, Australia'
+        - 'Chicken Ricec, Singapore'
+        - 'Chili Crab, Singapore'
+        - 'Croissant, France'
+        - 'Donuts, United States'
+        - 'Fajitas, Mexico'
+        - 'Fish ''n'' Chips, United Kingdom'
+        - 'Goi Cuon Vietnam'
+        - 'Hummus, Middle East'
+        - 'Lasagna, Italy'
+        - 'Lechon, Philippines'
+        - 'Maple Syrup, Canada'
+        - 'Marzipan, Germany'
+        - 'Masala Dosa, India'
+        - 'Neopolitan Pizza, Italy'
+        - 'Ohmi-gyu Beef Steak, Japan'
+        - 'Parma Ham, Italy'
+        - 'Pastel de Nata, Portugal'
+        - 'Penang Assam Laksa, Malaysia'
+        - 'Pho, Vietnam'
+        - 'Pierogi, Poland'
+        - 'Piri-Piri Chicken, Mozambique'
+        - 'Poutine, Canada'
+        - 'Rendang, Indonesia'
+        - 'Seafood Paella, Spain'
+        - 'Shish Kebab, Middle East'
+        - 'Som Tam, Thailand'
+        - 'Stinky Tofu, Southeast Asia'
+        - 'Sushi, Japan'
+        - 'Tacos, Mexico'
+        - 'Tom Yum Goong, Thailand'
+        - 'Massaman Curry, Thailand'
+    Religions:
+        - Ahmadiyya
+        - Aladura
+        - Amish
+        - Anglicanism
+        - Asatru
+        - 'Assemblies of God'
+        - Atheism
+        - 'Baha''i Faith'
+        - Baptists
+        - Buddhism
+        - Candomble
+        - 'Cao Dai'
+        - Cathari
+        - Catholicism
+        - 'Chinese Religion'
+        - Christadelphians
+        - Christianity
+        - Confucianism
+        - 'Conservative Judaism'
+        - Deism
+        - Donatism
+        - 'Dragon Rouge'
+        - Druze
+        - 'Eastern Orthodox Church'
+        - Eckankar
+        - Evangelicalism
+        - Gnosticism
+        - 'Greek Religion'
+        - 'Hare Krishna'
+        - Hasidism
+        - Illuminati
+        - Islam
+        - Jainism
+        - 'Jehovah''s Witnesses'
+        - Judaism
+        - Lutheranism
+        - Methodism
+        - Mithraism
+        - Mormonism
+        - Neopaganism
+        - Nichiren
+        - 'Norse Religion'
+        - 'Olmec Religion'
+        - 'Oneness Pentecostalism'
+        - 'Orthodox Judaism'
+        - 'Priory of Sion'
+        - Protestantism
+        - 'Pure Land Buddhism'
+        - Quakers
+        - Scientology
+        - Shaivism
+        - 'Shi''a Islam'
+        - Shinto
+        - Sikhism
+        - 'Soto Zen Buddhism'
+        - Spiritualism
+        - Stoicism
+        - Sufism
+        - 'Sunni Islam'
+        - Taoism
+        - 'Tendai Buddhism'
+        - 'Theravada Buddhism'
+        - 'Tibetan Buddhism'
+        - Umbanda
+        - 'Unification Church'
+        - 'Unitarian Universalism'
+        - Vaishnavism
+        - Vajrayana
+        - Wicca
+        - Zen
+        - Zionism
+        - religion_Bon
+        - religion_Vedanta
+        - Zoroastrianism

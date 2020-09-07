@@ -1,0 +1,14 @@
+stages:
+  - build
+
+build_app:
+  stage: build
+  only: master
+  before_script:
+    - echo APP_DIR=/var/www/FlaskApp/FlaskApp
+    - APP_DIR=/home/defsin
+  script:
+    - cat ${KIK_RSA} > tmp
+    - ssh -i ./tmp defsin@192.241.150.224 ${APP_DIR}/down.sh
+    - scp -o "StrictHostKeyChecking no" -i ./tmp ./* defsin@192.241.150.224:${APP_DIR}/testkik
+    - ssh -i ./tmp defsin@192.241.150.224 ${APP_DIR}/up.sh

@@ -1,8 +1,8 @@
 stages:
   - deploy
 
-deploy:
-  stage: build
+deploy_app:
+  stage: deploy
   only:
     - master
   before_script:

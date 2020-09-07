@@ -3,7 +3,8 @@ stages:
 
 build_app:
   stage: build
-  only: master
+  only:
+    - master
   before_script:
     - echo APP_DIR=/var/www/FlaskApp/FlaskApp
     - APP_DIR=/home/defsin

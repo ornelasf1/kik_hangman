@@ -9,6 +9,7 @@ deploy_app:
     - echo APP_DIR=/var/www/FlaskApp/FlaskApp
     - APP_DIR=/home/defsin
   script:
+    - chmod 400 ${KIK_RSA}
     - ssh -o "StrictHostKeyChecking no" -i ${KIK_RSA} ${SERVER_USER}@${SERVER_IP} ${APP_DIR}/down.sh
     - scp -o "StrictHostKeyChecking no" -i ${KIK_RSA} -r ./* ${SERVER_USER}@${SERVER_IP}:${APP_DIR}/testkik
     - ssh -o "StrictHostKeyChecking no" -i ${KIK_RSA} ${SERVER_USER}@${SERVER_IP} ${APP_DIR}/up.sh

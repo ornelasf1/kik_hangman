@@ -670,7 +670,7 @@ class Hangman():
                             str(comp), str(self.LB_mult_coop_wins), str(self.LB_mult_coop_loss),
                             str(coop))
                         except:
-                            stats = "Statistics doesn't exist for " + self.getName(message.from_user)
+                            stats = "Stats doesn't exist for " + self.getName(message.from_user)
                         logprint(stats) 
                     response_messages.append(TextMessage(
                         to=message.from_user,

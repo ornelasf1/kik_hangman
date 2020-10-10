@@ -1374,50 +1374,6 @@ class Hangman():
                 body="You know it"
             ))
             special = True
-        elif "fuck me" in message_body or "suck my" in message_body:
-            response_messages.append(TextMessage(
-                to=message.from_user,
-                chat_id=message.chat_id,
-                body="I'll pass."
-	    ))
-            special = True
-        elif "fuck off" in message_body:
-            response_messages.append(TextMessage(
-                to=message.from_user,
-                chat_id=message.chat_id,
-                body="Oh. Alright. :("
-            ))
-            special = True
-        elif "sorry" in message_body:
-            response_messages.append(TextMessage(
-                to=message.from_user,
-                chat_id=message.chat_id,
-                body="It's okay, we can still be friends :)"
-            ))
-            special = True
-        elif message_body in ["fuck", "shit"] or (self.progress_pic == 1 and (set(["yes", "no"]) & set(message_body.split(" ")))):
-            if self.progress_pic == 0:
-                response_messages.append(TextMessage(
-                    to=message.from_user,
-                    chat_id=message.chat_id,
-                    body="You okay?"
-	        ))
-                self.progress_pic = 1
-            else:
-                response_messages.append(TextMessage(
-                    to=message.from_user,
-                    chat_id=message.chat_id,
-                    body="Hey it's alright. You're loved by a lot of people, including me. <3"
-                ))
-                self.progress_pic = 0
-            special = True 
-        elif ([i for i in ["twat", "cunt", "fuck", "fucking", "bitch", "suck", "stupid", "youre", "you're", "idiot", "dumbass"] if i in message_body.split()]) and not self.game_status:
-            response_messages.append(TextMessage(
-                to=message.from_user,
-                chat_id=message.chat_id,
-                body="no, u"
-            ))
-            special = True
         else:
             self.progress_pic = 0
             special = False

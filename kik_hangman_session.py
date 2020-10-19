@@ -642,21 +642,12 @@ class Hangman():
                     self.reset()
                 elif (message_body == "tell me about coopons") and not self.game_status:
                     msg = """
-                    Coopons is a cool little app that lets you and your friends exchange custome-made coupons!
-                    Pretend you owe your friend for some reason. You can send them a coupon that says, 
-                    "I'll run across the mall with nothing but a mask!" and they'll be able to redeem it whenever they like,
-                    unfortunately for you of course 😅
+                    Coopons is a cool little app that lets you and your friends exchange fun custome-made coupons! Pretend you owe your friend for some reason. You can send them a coupon that says, "I'll run across the mall with nothing but a mask!" and they'll be able to redeem it whenever they like, unfortunately for you of course 😅. Google Play Store link is in our IG bio!
                     """
                     ig_msg="""
                     If you want to contact us about Hangman or Coopons, reach out to us on our Instagram!
-                    Google Play Store link is in our bio!
                     """
                     pic_url = server_url + "/images/coopons.png"
-                    response_messages.append(PictureMessage(
-                        to=message.from_user,
-                        chat_id=message.chat_id,
-                        pic_url=pic_url
-                    ))
                     response_messages.append(TextMessage(
                         to=message.from_user,
                         chat_id=message.chat_id,
@@ -666,6 +657,7 @@ class Hangman():
                         to=message.from_user,
                         chat_id=message.chat_id,
                         title="Follow us on Instagram!",
+                        pic_url=pic_url,
                         text=ig_msg,
                         url="https://www.instagram.com/aegeanapps/"
                     ))

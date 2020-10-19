@@ -646,8 +646,9 @@ class Hangman():
                     Pretend you owe your friend for some reason. You can send them a coupon that says, 
                     "I'll run across the mall with nothing but a mask!" and they'll be able to redeem it whenever they like,
                     unfortunately for you of course 😅
-
-                    If you want to contact us about it or anything else, let us know on our Instagram.
+                    """
+                    ig_msg="""
+                    If you want to contact us about Hangman or Coopons, reach out to us on our Instagram!
                     Google Play Store link is in our bio!
                     """
                     pic_url = server_url + "/images/coopons.png"
@@ -656,11 +657,16 @@ class Hangman():
                         chat_id=message.chat_id,
                         pic_url=pic_url
                     ))
+                    response_messages.append(TextMessage(
+                        to=message.from_user,
+                        chat_id=message.chat_id,
+                        body=msg
+                    ))
                     response_messages.append(LinkMessage(
                         to=message.from_user,
                         chat_id=message.chat_id,
                         title="Follow us on Instagram!",
-                        text=msg,
+                        text=ig_msg,
                         url="https://www.instagram.com/aegeanapps/"
                     ))
                 elif (message_body == "no thanks!") and not self.game_status:

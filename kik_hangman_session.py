@@ -659,8 +659,8 @@ class Hangman():
                     response_messages.append(LinkMessage(
                         to=message.from_user,
                         chat_id=message.chat_id,
-                        title="Follow us on Instagram!"
-                        text=msg
+                        title="Follow us on Instagram!",
+                        text=msg,
                         url="https://www.instagram.com/aegeanapps/"
                     ))
                 elif (message_body == "no thanks!") and not self.game_status:

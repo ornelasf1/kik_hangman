@@ -63,7 +63,7 @@ class Hangman():
     winners = []
     responses = [TextResponse("Used Letters"), TextResponse("Players"), TextResponse("Scoreboard"),
                  TextResponse("Display"), TextResponse("End Game")]
-    init_kb = [TextResponse("Sure!"), TextResponse("No thanks!"), TextResponse("Stat me!")]
+    init_kb = [TextResponse("Sure!"), TextResponse("No thanks!"), TextResponse("Stat me!"), TextResponse("Tell me about Coopons!")]
 
     def __init__(self):
         self.session_chatid = ""
@@ -640,9 +640,9 @@ class Hangman():
                         keyboards=[SuggestedResponseKeyboard(responses=category_texts)]
                     ))
                     self.reset()
-                elif (message_body == "tell me about coopons") and not self.game_status:
+                elif (message_body == "tell me about coopons!") and not self.game_status:
                     msg = """
-                    Coopons is a cool little app that lets you and your friends exchange fun custome-made coupons! Pretend you owe your friend for some reason. You can send them a coupon that says, "I'll run across the mall with nothing but a mask!" and they'll be able to redeem it whenever they like, unfortunately for you of course 😅. Google Play Store link is in our IG bio!
+                    Coopons is a cool little app that lets you and your friends exchange fun custome-made coupons! Pretend you owe your friend for some reason. You can send them a coupon that says, "I'll run across the mall with nothing but a mask! 🏃🏼‍♀️" and they'll be able to redeem it whenever they like, unfortunately for you of course 😅. Google Play Store link is in our IG bio!
                     """
                     ig_msg="""
                     If you want to contact us about Hangman or Coopons, reach out to us on our Instagram!

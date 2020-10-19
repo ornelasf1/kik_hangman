@@ -639,8 +639,30 @@ class Hangman():
                              "Which category would you like to play?",
                         keyboards=[SuggestedResponseKeyboard(responses=category_texts)]
                     ))
-                    self.reset()            
+                    self.reset()
+                elif (message_body == "tell me about coopons") and not self.game_status:
+                    msg = """
+                    Coopons is a cool little app that lets you and your friends exchange custome-made coupons!
+                    Pretend you owe your friend for some reason. You can send them a coupon that says, 
+                    "I'll run across the mall with nothing but a mask!" and they'll be able to redeem it whenever they like,
+                    unfortunately for you of course 😅
 
+                    If you want to contact us about it or anything else, let us know on our Instagram.
+                    Google Play Store link is in our bio!
+                    """
+                    pic_url = server_url + "/images/coopons.png"
+                    response_messages.append(PictureMessage(
+                        to=message.from_user,
+                        chat_id=message.chat_id,
+                        pic_url=pic_url
+                    ))
+                    response_messages.append(LinkMessage(
+                        to=message.from_user,
+                        chat_id=message.chat_id,
+                        title="Follow us on Instagram!"
+                        text=msg
+                        url="https://www.instagram.com/aegeanapps/"
+                    ))
                 elif (message_body == "no thanks!") and not self.game_status:
                     if random.randrange(2) == 0:
                         msg = "\n\nHey %s, how can we further improve our bot? You can leave your feedback in the bot shop. Thanks!" % (self.getName(message.from_user),)

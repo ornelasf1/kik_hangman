@@ -648,11 +648,6 @@ class Hangman():
                     If you want to contact us about Hangman or Coopons, reach out to us on our Instagram!
                     """
                     pic_url = server_url + "/images/coopons.png"
-                    response_messages.append(TextMessage(
-                        to=message.from_user,
-                        chat_id=message.chat_id,
-                        body=msg
-                    ))
                     response_messages.append(LinkMessage(
                         to=message.from_user,
                         chat_id=message.chat_id,
@@ -660,6 +655,11 @@ class Hangman():
                         pic_url=pic_url,
                         text=ig_msg,
                         url="https://www.instagram.com/aegeanapps/"
+                    ))
+                    response_messages.append(TextMessage(
+                        to=message.from_user,
+                        chat_id=message.chat_id,
+                        body=msg
                     ))
                 elif (message_body == "no thanks!") and not self.game_status:
                     if random.randrange(2) == 0:

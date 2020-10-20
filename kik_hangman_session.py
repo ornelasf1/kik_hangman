@@ -661,6 +661,7 @@ class Hangman():
                         chat_id=message.chat_id,
                         body=msg
                     ))
+                    self.cooponsButtonClicked()
                 elif (message_body == "no thanks!") and not self.game_status:
                     if random.randrange(2) == 0:
                         msg = "\n\nHey %s, how can we further improve our bot? You can leave your feedback in the bot shop. Thanks!" % (self.getName(message.from_user),)
@@ -1366,6 +1367,15 @@ class Hangman():
                 if profanity.contains_profanity(message_body):
                     return False, "No offensive language please :("
                 return True, ""
+
+    def cooponsButtonClicked(self):
+        from kik_sql import KikDB
+        try:
+            with KikDB() as kikdb:
+                kikdb.mysqlExec(KikDB.query_track_button, None)
+        except Exception as e:
+            logprint("Problem inserting analytical info! ", str(e))
+            logging.error(e, exc_info=True)
 
     def specialMessage(self, message, response_messages):
         message_body = message.body.lower()

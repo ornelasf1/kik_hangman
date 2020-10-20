@@ -46,6 +46,9 @@ class KikDB():
                  " where chat_id = %s"
     q_custom_answer = "update game_sessions set session_data = JSON_SET(session_data, '$.answer', %s)" \
                " where chat_id = %s"
+
+    query_track_button = "INSERT INTO coopons_analytics VALUES (now())"
+
     def __init__(self):
         self.db = MySQLdb.connect(host=os.environ['KIK_HOSTNAME'], user=os.environ['KIK_SQL_USER'], passwd=os.environ['KIK_SQL_PASSWORD'], db="hangman", port=3306, charset='utf8', use_unicode=True)
         self.cursor = self.db.cursor()
